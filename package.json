@@ -13,6 +13,7 @@
   "dependencies": {
     "@salutejs/client": "^1.37.1",
     "react": "^19.2.5",
+    "react-calendar": "^5.1.0",
     "react-dom": "^19.2.5"
   },
   "devDependencies": {
